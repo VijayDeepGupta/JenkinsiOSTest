@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>78477959-F059-4A20-80DD-CB36129AE4D1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>JenkinsiOSTest</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>68888E83771AFBBB9D594F84437AEB0CD7804EB0</key>
+		<string>https://github.com/VijayDeepGupta/JenkinsiOSTest.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>JenkinsiOSTest.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>68888E83771AFBBB9D594F84437AEB0CD7804EB0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/VijayDeepGupta/JenkinsiOSTest.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>68888E83771AFBBB9D594F84437AEB0CD7804EB0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>68888E83771AFBBB9D594F84437AEB0CD7804EB0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>JenkinsiOSTestRepo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
